@@ -1,0 +1,63 @@
+body { margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+.header
+{
+    background: url(./assests/CIR1.gif);
+height: 105vh;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.navbar
+{
+    text-align: center;
+padding: 20px;
+}
+.navbar a {
+    text-decoration: none;
+color: rgb(252, 46, 19);
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 5px;
+transition: 0.3s;
+}
+
+
+.navbar a:hover
+{
+    background: rgb(208, 255, 0);
+    border: 2px solid black;
+    border-radius: 30%;    
+}
+.head-content
+{
+     text-align: center;
+    }
+.head-content img
+{
+ border-radius: 50%;
+ border: 2px solid;
+ color: white;
+ margin-top: 20px;
+}
+.head-content img:hover
+{
+    border: 2px solid #000;
+}
+.name
+{
+    font-size: 50px;
+    color: cyan;
+    font-family: serif;
+}
+.skill
+{
+    font-size: 20px;
+    color: greenyellow;
+    font-family: Arial solid;
+}

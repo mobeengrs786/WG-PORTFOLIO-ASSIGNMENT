@@ -1,0 +1,33 @@
+body
+{
+  background: url(./assests/bg.jif);
+height: 105vh;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+h1{ size: 70;
+color: rgb(56, 231, 13);
+text-align: center;
+}
+
+h2
+{
+    size: 50;
+    color: darkmagenta;
+    text-align: center;
+}
+p
+{size: 38;
+color: darkorange;
+text-align: center;
+}
+
+.com
+{ 
+  color: darksalmon;
+size: 26;
+text-align: center;
+}
